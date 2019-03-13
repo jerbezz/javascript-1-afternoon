@@ -63,7 +63,7 @@ function doubleCheck(arr){
 //Code Here
 let dog = {
   name: "Fido",
-  color: "gold",
+  color: "gray",
   age: 5,
   goodBoy: true
 }
